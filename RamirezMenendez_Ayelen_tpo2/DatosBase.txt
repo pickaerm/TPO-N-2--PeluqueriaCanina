@@ -1,0 +1,4 @@
+Nombre Base de Datos: peluqueria_canina
+Usuario: pelu
+Servidor: localhost
+Contraseña: lalala
